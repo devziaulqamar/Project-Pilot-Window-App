@@ -21,6 +21,7 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.ProjectName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ProjectLink = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.OpenChorome = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -64,11 +65,22 @@
             this.ProjectLink.Name = "ProjectLink";
             this.ProjectLink.Width = 225;
             // 
+            // OpenChorome
+            // 
+            this.OpenChorome.Location = new System.Drawing.Point(182, 12);
+            this.OpenChorome.Name = "OpenChorome";
+            this.OpenChorome.Size = new System.Drawing.Size(118, 41);
+            this.OpenChorome.TabIndex = 2;
+            this.OpenChorome.Text = "Open Chorome";
+            this.OpenChorome.UseVisualStyleBackColor = true;
+            this.OpenChorome.Click += new System.EventHandler(this.OpenChorome_Click);
+            // 
             // ProjectManagement
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(904, 381);
+            this.Controls.Add(this.OpenChorome);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.AddNewProject);
             this.MaximizeBox = false;
@@ -82,5 +94,6 @@
 
         private System.Windows.Forms.DataGridViewTextBoxColumn ProjectName;
         private System.Windows.Forms.DataGridViewTextBoxColumn ProjectLink;
+        private System.Windows.Forms.Button OpenChorome;
     }
 }

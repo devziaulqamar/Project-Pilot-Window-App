@@ -26,7 +26,7 @@
     <TargetCulture>en-US</TargetCulture>
     <ProductName>Project Pilot</ProductName>
     <PublisherName>Zia</PublisherName>
-    <ApplicationRevision>5</ApplicationRevision>
+    <ApplicationRevision>7</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>

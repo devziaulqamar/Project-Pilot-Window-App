@@ -1,7 +1,10 @@
 ﻿
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
+using System.Security.Policy;
 using System.Windows.Forms;
 using OfficeOpenXml;
 
@@ -26,8 +29,8 @@ namespace ProjectPilot
             DataGridViewButtonColumn viewButton = new DataGridViewButtonColumn
             {
                 Name = "ViewButton",
-                HeaderText = "View",
-                Text = "View",
+                HeaderText = "Open Code",
+                Text = "Open Code",
                 UseColumnTextForButtonValue = true
             };
             dataGridView1.Columns.Add(viewButton);
@@ -149,5 +152,55 @@ namespace ProjectPilot
             AddNewProject addNewProject = new AddNewProject();
             addNewProject.ShowDialog();
         }
+
+
+        private void OpenChorome_Click(object sender, EventArgs e)
+        {
+            string chromePath = @"C:\Program Files\Google\Chrome\Application\chrome.exe";
+            string profileName = "Default"; // Specify the Chrome profile name here
+
+            // List of URLs to open
+            List<string> urls = new List<string>
+    {
+        "https://www.upwork.com/nx/find-work/",
+        "https://www.fiverr.com/users/ziaulqamar1/seller_dashboard",
+        "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox",
+        "https://chatgpt.com/"
+    };
+
+            foreach (string url in urls)
+            {
+                Process.Start(chromePath, $"--profile-directory=\"{profileName}\" {url}");
+            }
+        }
+
+        //// Path to the Chrome User Data directory
+        //string userDataPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), @"Google\Chrome\User Data");
+
+        //if (Directory.Exists(userDataPath))
+        //{
+        //    var profileDirectories = Directory.GetDirectories(userDataPath, "Profile *")
+        //        .Select(Path.GetFileName)
+        //        .ToList();
+
+        //    // Add the default profile
+        //    profileDirectories.Insert(0, "Default");
+
+        //    // Create a string with all profile names
+        //    string profilesList = string.Join(Environment.NewLine, profileDirectories);
+
+
+
+
+        //    // Show the profiles in a message box
+        //    MessageBox.Show(profilesList, "Chrome Profiles", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        //}
+        //else
+        //{
+        //    MessageBox.Show("Chrome User Data directory not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        //}
+
+
+
     }
 }
