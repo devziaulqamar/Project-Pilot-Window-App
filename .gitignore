@@ -81,3 +81,4 @@ node_modules/
 
 # Ignore the directory where the Projects.xlsx file is located
 F:\Project Management/
+/ProjectPilot/ProjectPilot.csproj
