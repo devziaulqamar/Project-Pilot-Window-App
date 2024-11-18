@@ -1,83 +1,24 @@
-# Build results
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
+# Build Folders
+bin/
+obj/
 
-# VS Code directories
-.vscode/
-.vscode/*
-
-# User-specific files
-*.rsuser
-*.suo
+# Visual Studio specific files
+.vs/
 *.user
-*.userosscache
-*.sln.docstates
+*.suo
 
-# Mono auto generated files
-mono_crash.*
+# Output folders
+Debug/
+Release/
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Publish and temporary files
+publish/
+*.application
+*.deploy
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# VS Code directories
-.vscode/
-
-# ASP.NET Scaffolding
-ScaffoldingReadMe.txt
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# DotNetCore
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# ASP.NET Core
-project.fragment.lock.json
-project.lock.json
-artifacts/
-
-# Cake - Uncomment if you are using it
-# tools/**/*
-# !tools/packages.config
-
-# Tabs Studio
-*.tss
-
-# Telerik's JustMock configuration file
-*.jmconfig
-
-# .NET Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Node.js
-node_modules/
-
-# JetBrains Rider
-.idea/
-
-# Ignore the directory where the Projects.xlsx file is located
-F:\Project Management/
+# IDE and temporary files
+*.tmp
+*.log
+*.cache
+*.config
+*.pdb
