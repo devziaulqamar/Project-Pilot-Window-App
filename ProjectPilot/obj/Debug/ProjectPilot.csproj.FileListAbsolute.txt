@@ -1,0 +1,62 @@
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\ProjectPilot.exe.config
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\ProjectPilot.exe
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\ProjectPilot.pdb
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.AssemblyReference.cache
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.Properties.Resources.resources
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.GenerateResource.cache
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.CoreCompileInputs.cache
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.exe
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.pdb
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\ProjectPilot.exe.manifest
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\ProjectPilot.application
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.exe.manifest
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.application
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.ProjectManagement.resources
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\EPPlus.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Buffers.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Memory.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\EPPlus.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Buffers.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Memory.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectP.FA4EFE3D.Up2Date
+C:\Users\Zia ul Qamar\source\repos\ProjectPilot\ProjectPilot\obj\Debug\ProjectPilot.AddNewProject.resources
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\ProjectPilot.exe.config
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\ProjectPilot.exe.manifest
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\ProjectPilot.application
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\ProjectPilot.exe
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\ProjectPilot.pdb
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\EPPlus.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\EPPlus.Interfaces.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\EPPlus.System.Drawing.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Buffers.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Memory.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Numerics.Vectors.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\EPPlus.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Buffers.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Memory.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Numerics.Vectors.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.AssemblyReference.cache
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.AddNewProject.resources
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.ProjectManagement.resources
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.Properties.Resources.resources
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.GenerateResource.cache
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.csproj.CoreCompileInputs.cache
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.exe.manifest
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.application
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectP.FA4EFE3D.Up2Date
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.exe
+D:\Html and Test Codes\Sample Addins\Window Application\Project Pilot\ProjectPilot\obj\Debug\ProjectPilot.pdb
