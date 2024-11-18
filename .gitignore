@@ -1,1 +1,24 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio specific files
 .vs/
+*.user
+*.suo
+
+# Output folders
+Debug/
+Release/
+
+# Publish and temporary files
+publish/
+*.application
+*.deploy
+
+# IDE and temporary files
+*.tmp
+*.log
+*.cache
+*.config
+*.pdb
