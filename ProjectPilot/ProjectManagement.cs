@@ -167,13 +167,13 @@ namespace ProjectPilot
             }
         }
 
-        private void AddNewProject_Click(object sender, EventArgs e)
+        private void AddNewProject_Click_1(object sender, EventArgs e)
         {
             AddNewProject addNewProject = new AddNewProject();
             addNewProject.ShowDialog();
         }
 
-        private void OpenChorome_Click(object sender, EventArgs e)
+        private void OpenChorome_Click_1(object sender, EventArgs e)
         {
             string chromePath = @"C:\Program Files\Google\Chrome\Application\chrome.exe";
             string profileName = "Default";
@@ -192,5 +192,7 @@ namespace ProjectPilot
                 Process.Start(chromePath, $"--profile-directory=\"{profileName}\" {url}");
             }
         }
+
+      
     }
 }

@@ -82,6 +82,7 @@
             this.AddNewProject.TabIndex = 0;
             this.AddNewProject.Text = "Add New Project";
             this.AddNewProject.UseVisualStyleBackColor = false;
+            this.AddNewProject.Click += new System.EventHandler(this.AddNewProject_Click_1);
             // 
             // OpenChorome
             // 
@@ -94,6 +95,7 @@
             this.OpenChorome.TabIndex = 1;
             this.OpenChorome.Text = "Open Chrome";
             this.OpenChorome.UseVisualStyleBackColor = false;
+            this.OpenChorome.Click += new System.EventHandler(this.OpenChorome_Click_1);
             // 
             // groupBoxProjects
             // 
@@ -130,6 +132,7 @@
             this.ProjectName.HeaderText = "Project Name";
             this.ProjectName.MinimumWidth = 6;
             this.ProjectName.Name = "ProjectName";
+            this.ProjectName.ReadOnly = true;
             this.ProjectName.Width = 200;
             // 
             // ProjectLink
@@ -137,6 +140,7 @@
             this.ProjectLink.HeaderText = "Project Link";
             this.ProjectLink.MinimumWidth = 6;
             this.ProjectLink.Name = "ProjectLink";
+            this.ProjectLink.ReadOnly = true;
             this.ProjectLink.Width = 350;
             // 
             // ProjectManagement
